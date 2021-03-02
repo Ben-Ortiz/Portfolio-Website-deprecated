@@ -1,4 +1,4 @@
-# portfolioWebsite
+# Portfolio Website
 My current portfolio website: [Benedictortiz.com](https://benedictortiz.com/)
 
 My portfolio website to showcase who I am, my skills, projects, and work experience.  
