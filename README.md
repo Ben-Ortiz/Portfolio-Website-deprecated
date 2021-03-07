@@ -7,3 +7,7 @@ Currently updating my website.
 * HTML: How to set up the bones of the website
 * CSS: How to style the website with colors and organzing elements
 * Javascript: How to make the navbar work
+
+# todo
+* click on logo to go home
+* logo in all pages
