@@ -1,5 +1,5 @@
 # Portfolio Website: [Benedictortiz.com](https://benedictortiz.com/)
-My portfolio website to showcase who I am, my skills, projects, and work experience.  
+A personal project, my portfolio website. To showcase who I am, my skills, projects, and work experience.  
 Currently updating my website.
 
 # What I Learned  
