@@ -1,6 +1,6 @@
 # Portfolio Website: [Benedictortiz.com](https://benedictortiz.com/)
 A personal project, my portfolio website. To showcase who I am, my skills, projects, and work experience.  
-Currently updating my website.
+Currently updating my website. Have updated my website and this repo is no longer used.
 
 # What I Learned  
 * HTML: How to set up the bones of the website
